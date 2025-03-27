@@ -10,7 +10,7 @@
   "quoteProps": "as-needed",
   "requirePragma": false,
   "semi": true,
-  "singleQuote": true,
+  "doubleQuote": true,
   "tabWidth": 2,
   "trailingComma": "all",
   "useTabs": false
